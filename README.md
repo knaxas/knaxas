@@ -11,11 +11,20 @@
 ---
 
 ### Projekte
-* **[totk-guesser](https://github.com/knaxas)** – Kleines Web-Projekt mit JavaScript und HTML.
-* **Automatisierung & Tools** – Eigene Skripte und kleine Anwendungen zum Lernen und Testen.
+<div align="center">
+  <a href="https://github.com/knaxas/totk-guesser">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=knaxas&repo=totk-guesser&theme=tokyonight&hide_border=true&bg_color=0f172a" />
+  </a>
+</div>
 
 ---
 
+### Aktivität & Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=knaxas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=knaxas&show_icons=true&hide=prs,issues,contribs&theme=tokyonight&hide_border=true&bg_color=0f172a" height="145" />
+  <img src="https://streak-stats.demolab.com/?user=knaxas&theme=tokyonight&hide_border=true&background=0f172a" height="145" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=knaxas&theme=tokyo-night&hide_border=true&bg_color=0f172a&area=true" width="95%" />
 </div>
